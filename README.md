@@ -10,7 +10,7 @@ Busque dados em outro servidor com AJAX
 
 
 Aulas
-Introdução Ver primeiro vídeo 16 / 16 33min
+*[Introdução Ver primeiro vídeo 16 / 16 33min]
 Variáveis e Operadores 12 / 12 29min
 Arrays, Loop e Estilos 10 / 10 23min
 Eventos, Formulários e Criando Elementos 12 / 12 32min
