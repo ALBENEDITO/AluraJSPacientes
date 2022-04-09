@@ -1,5 +1,5 @@
-# AluraJSPacientes
-Projeto do curso APARECIDA NUTRIÇÃO.  
+# AluraJSPacientes - Projeto do curso APARECIDA NUTRIÇÃO.  
+
 Faça esse curso de JavaScript e:
 Entenda mais como funciona esta popular linguagem do mercado
 Aprenda a manipular os elementos de sua página
