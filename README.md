@@ -19,3 +19,4 @@ Aulas
 - `Filtrando uma tabela`: 8 / 8 26min 
 - `AjaxBuscando pacientes com AJAX`: 11 / 11 30min
 
+<img src="https://github.com/ALBENEDITO/AluraJSPacientes/blob/master/img/aparecidaNutricao.gif" alt="Minha Figura">
